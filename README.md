@@ -5,6 +5,3 @@ Django Rest API :
 3. DRF(Django Rest Framework)
 4. Generics Class
 5. Decorator API
-
-## Subkategori Create API
-[![](https://github.com/Galuh80/django_api/web/resources/ss/subkategori_post.png)](#features)
